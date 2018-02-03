@@ -1,0 +1,10 @@
+#nav-btns{
+    display:flex;
+    flex-direction:row;
+    align-items: flex-start;
+   
+}
+
+li{
+    margin: 0px 20px;
+}
